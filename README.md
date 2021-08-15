@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Huzitive.com&style=for-the-badge&url=https://huzitive.wordpress.com)](https://huzitive.wordpress.com)
 
-## I'm a Student, Graphic Designer and Developer!!
+## I'm a Student of muneeb, Graphic Designer and Developer!!
 
 - 🌱 I’m currently learning everything i guess..
 - 🥅 2022 Goals: Contribute more to Open Source projects
