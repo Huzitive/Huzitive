@@ -1,6 +1,6 @@
 ### Hi there, I'm Huzaifa - aka [Huzitive] 👋
 
-[![Website](https://img.shields.io/website?label=Huzitive.com&style=for-the-badge&url=https://huzitive.wordpress.com)](https://huzitive.wordpress.com)
+[![Website](https://img.shields.io/website?label=Huzitive.com&style=for-the-badge&url=http://huzaifa.ezyro.com/?i=1)](https://http://huzaifa.ezyro.com/?i=1)
 
 ## I'm a Student, Graphic Designer and Developer!!
 
