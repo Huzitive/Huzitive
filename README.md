@@ -1,11 +1,13 @@
 
-[![Website](nolongerhuzxfa.carrd.co)
 <h1 align="center">Hi 👋, I'm Huzaifa Ahmed Khan</h1>
 <h3 align="center">Physics Undergrad |  Developer/Designer | AI & Simulation Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/huzaifa-ahmed-khan" target="_blank">
+  <a href="https://www.linkedin.com/in/huzaifa-ahmed-khan-460760321/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://nolongerhuzxfa.carrd.co" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
@@ -67,7 +69,9 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/huzaifa-ahmed-khan" target="_blank">
+  <a href="<a href="https://nolongerhuzxfa.carrd.co" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
