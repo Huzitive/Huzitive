@@ -65,18 +65,7 @@
 - 🌍 Always curious about **AI, simulations, and web technologies**  
 - 💡 Believe in **building projects that teach and inspire**  
 
----
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="<a href="https://nolongerhuzxfa.carrd.co" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=huzaifa-ahmed-khan&color=blue" alt="Profile Views"/>
